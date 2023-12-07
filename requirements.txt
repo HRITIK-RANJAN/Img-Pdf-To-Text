@@ -1,0 +1,8 @@
+tesseract
+pytesseract
+opencv-python
+Pillow
+Flask-Uploads
+PyMuPDF
+Flask-Reuploaded
+convertapi
